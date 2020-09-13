@@ -1,0 +1,65 @@
+{
+	"landing": {
+		"firstName": "Milena",
+		"lastName": "Kari",
+		"phoneNumber": "808-000-0000",
+		"bio": "Full-stack web developer focused on React, Javascript",
+    "email": "milenaonmaui3@gmail.com",
+    "linkedin": "https://linkedin.com/in/milenaonmaui",
+		"github": "https://github.com/milenaonmaui"
+	},
+	"experience": [
+		{
+				"position": "Freelance developer",
+				"organization": "self-employed",
+				"aboutWork": "Worked on various customer projects",
+				"fromDate": "April 2017",
+				"toDate": "Present"
+		},
+		{
+			"position": "QA Engineer",
+			"organization": "Spirent Communications",
+			"aboutWork": "Developed and executed software and hardware test plans for Spirent TestCenter. Executed and automated test cases, ran CI jobs",
+			"fromDate": "August 2004",
+			"toDate": "December 2015"
+		}
+		
+	],
+	"education": [{
+			"university": "Technical University of Sofia",
+			"degree": "B.S.",
+			"gpa": "5.6/6.0",
+			"fromDate": "",
+			"toDate": ""
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "MongoDB"
+		},
+		{
+			"name": "SQL"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Outdoor activities such as hiking, kitesurfing, swimming in the ocean, rollerblading"
+		
+	}
+}
